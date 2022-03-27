@@ -8,6 +8,5 @@
 - :hammer_and_pick: Python/C-Sharp/CPP
 - :package: Building: N/A
 - :pencil2: Vs Code/ Visual Studio 2019/2022
-- ⭐ <a href="https://twitter.com/wyapssbl">Twitter</a>
 
 ![Possible's Github Stats](https://github-readme-stats.vercel.app/api?username=Possbl&theme=gruvbox&show_icons=true)
