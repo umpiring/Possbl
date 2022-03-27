@@ -5,7 +5,7 @@
 
 🎊 Hello Everyone!
 
-- :hammer_and_pick: Python/C-Sharp
+- :hammer_and_pick: Python/C-Sharp/CPP
 - :package: Building: N/A
 - :pencil2: Vs Code/ Visual Studio 2019/2022
 - ⭐ <a href="https://twitter.com/wyapssbl">Twitter</a>
