@@ -2,7 +2,7 @@
 
 🎊 Hello Everyone!
 
-- :hammer_and_pick: Python/C-Sharp/CPP
+- :hammer_and_pick: Java, C-Sharp
 - :package: Building: N/A
 - :pencil2: Vs Code/ Visual Studio 2019/2022
 
