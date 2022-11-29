@@ -6,4 +6,3 @@
 - :package: 
 - :pencil2: Visual Studio 2022
 
-![Possible's Github Stats](https://github-readme-stats.vercel.app/api?username=Possbl&theme=gruvbox&show_icons=true)
