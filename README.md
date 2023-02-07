@@ -4,5 +4,5 @@
 
 - :hammer_and_pick: C-Sharp, C++
 - :package: None atm
-- :pencil2: Visual Studio 2022
+- :pencil2: Visual Studio / VS Code
 
