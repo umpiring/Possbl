@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Possible</h1>
-<h3 align="center">First year software development student from Canada</h3>
-
 <img src="https://media.discordapp.net/attachments/1016110592211304469/1123472694533431347/Possible-Banner.png?width=936&height=468" alt="Possible-Banner"></img>
+<h3 align="center">First year software development student from Canada</h3>
 
 - 🌱 I’m currently learning **Express**
 
