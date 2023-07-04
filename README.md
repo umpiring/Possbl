@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Possible</h1>
-<h3 align="center">First year software development student in Canada</h3>
+<h3 align="center">First year software development student from Canada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=possbl" alt="possbl" /></a> </p>
+<img src="https://media.discordapp.net/attachments/1016110592211304469/1123472694533431347/Possible-Banner.png?width=936&height=468" alt="Possible-Banner"></img>
 
 - 🌱 I’m currently learning **Express**
 
