@@ -1,7 +1,7 @@
 <img src="https://media.discordapp.net/attachments/1016110592211304469/1123472694533431347/Possible-Banner.png?width=936&height=468" alt="Possible-Banner"></img>
-<h3 align="center">Second year software development student from Canada</h3>
+<h3 align="center">Second year software development student from Russia</h3>
 
-- 🌱 Currently working on Authentication API
+- 🌱 Currently working on CS2 DMA Cheat
 
 - 👨‍💻 All of my projects are available at [github.com/Possbl](github.com/Possbl)
 
